@@ -1,12 +1,12 @@
 ---
-title: Moral Class - OddSem - Photos- 2025-26
-date: 2025-07-01 09:00:00
-month: 2025/07
-year: 2025
-categories: ["photos"]
+title: Moral Class - EvenSem - Videos - 2025-26
+date: 2026-01-22 09:00:00
+month: 2026/01
+year: 2026
+categories: ["video"]
 desc_short: Principle Pursuit - Moral Class at Sri Sathya Sai Institute, Brindavan Campus
-link: https://drive.google.com/drive/folders/1ewEe_0ls1vjeNisiBILdZmZeSbdQzXcl?usp=drive_link
-thumbnail: images/thumbnails/2026/Moral_Class.jpg 
+link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCaY8R5OEffVD0XAumioOCIO
+thumbnail: images/thumbnails/2026/Moral Class Even Sem.jpg 
 draft: false
 ---
 
