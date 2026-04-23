@@ -1,6 +1,6 @@
 ---
 title: Onam Photos 2024-25
-date: 2024-09-22 06:00:00
+date: 2025-09-22 06:00:00
 month: 2024/09
 year: 2024
 categories: ["photo"]
