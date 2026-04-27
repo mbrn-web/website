@@ -1,5 +1,5 @@
 ---
-title: Ganesh Chaturthi Celebrations Photos 2025-26
+title: Ganesh Chaturthi Celebrations Video 2025-26
 date: 2025-08-27 05:00:00
 month: 2025/08
 year: 2025
