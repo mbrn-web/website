@@ -6,7 +6,7 @@ year: 2025
 categories: ["video"]
 desc_short: Vaikunta Ekadashi Celebrations at SSSIHL Brindavan Campus 
 link: https://youtu.be/T0NNkM3fn-o
-thumbnail: images\thumbnails\2026\Vaikuntha_Ekadashi.jpg
+thumbnail: images/thumbnails/2026/Vaikuntha_Ekadashi.jpg
 draft: false
 ---
 
